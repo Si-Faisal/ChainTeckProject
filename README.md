@@ -10,6 +10,7 @@ Welcome to ChainTech, a platform that allows users to create, view, and interact
   - [Timeline](#timeline)
   - [Authentication](#authentication)
   - [Password Validation](#password-validation)
+  - [Task Interactions](#task-interactions)
 - [Live Site](#live-site)
 - [Source Code](#source-code)
 
@@ -37,11 +38,20 @@ Welcome to ChainTech, a platform that allows users to create, view, and interact
 
 - Users can log in and sign up.
 - Password validation requires at least one capital letter, one special character, and one number.
-- Without authentication, editing or deleting task posts is restricted.
+- Without authentication, editing, updating, or deleting task posts is restricted.
 
 ### Password Validation
 
 - Passwords must include at least one capital letter, one special character, and one number.
+
+### Task Interactions
+
+- **Create Task:** Users can create new tasks.
+- **Read Task:** Users can view task details on the timeline.
+- **Update Task:** Authenticated users can edit and update task details.
+- **Delete Task:** Authenticated users can delete task posts.
+- **Write Comments:** Users can write comments on task posts.
+- **Read Comments:** Users can view comments on task posts.
 
 ## Live Site
 
@@ -52,3 +62,4 @@ Visit the live site [here](https://chain-tech-client.vercel.app/).
 Explore the source code on GitHub [here](https://github.com/Si-Faisal/ChainTeckProject).
 
 Feel free to contribute, report issues, or suggest improvements!
+
