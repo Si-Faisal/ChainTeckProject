@@ -1,4 +1,4 @@
-# ChainTech Project
+# Task Management Project
 
 Welcome to ChainTech, a platform that allows users to create, view, and interact with tasks on a timeline. This README provides an overview of the site's features and functionalities.
 
@@ -61,5 +61,5 @@ Visit the live site [here](https://chain-tech-client.vercel.app/).
 
 Explore the source code on GitHub [here](https://github.com/Si-Faisal/ChainTeckProject).
 
-Feel free to contribute, report issues, or suggest improvements!
+
 
